@@ -20,22 +20,17 @@ O ToDoCentral é uma aplicação web desenvolvida para ajudar os usuários a org
    - Organizar tarefas em diferentes categorias ou projetos.
    - Adicionar etiquetas ou tags para facilitar a organização.
 
-6. **Colaboração:**
-   - Compartilhar tarefas ou projetos com outros usuários.
-   - Capacidade de comentar e discutir tarefas específicas.
-
-7. **Visualizações Personalizadas:**
-   - Filtragem e classificação para personalizar a visualização das tarefas.
+5. **Visualizações Personalizadas:**
    - Visualização de tarefas por data de vencimento, prioridade, categoria, etc.
 
-8. **Sincronização e Acessibilidade:**
+6. **Sincronização e Acessibilidade:**
    - Sincronização entre dispositivos para acessar as tarefas em diferentes plataformas.
    - Interface responsiva para dispositivos móveis e desktop.
 
-9. **Histórico de Atividades:**
+7. **Histórico de Atividades:**
    - Registro das ações realizadas pelo usuário, como adicionar, editar ou excluir tarefas.
 
-10. **Configurações de Conta:**
+8. **Configurações de Conta:**
     - Personalizar configurações de conta, preferências de exibição, etc.
     - Atualizar informações de perfil.
 
